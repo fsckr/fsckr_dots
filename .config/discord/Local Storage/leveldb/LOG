@@ -1,0 +1,23 @@
+2024/03/08-10:33:51.144 631f2 Reusing MANIFEST /home/rich/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/08-10:33:51.144 631f2 Recovering log #66
+2024/03/08-10:33:51.144 631f2 Reusing old log /home/rich/.config/discord/Local Storage/leveldb/000066.log 
+2024/03/08-10:36:27.925 66602 Level-0 table #70: started
+2024/03/08-10:36:27.932 66602 Level-0 table #70: 733696 bytes OK
+2024/03/08-10:36:27.933 66602 Delete type=0 #66
+2024/03/08-10:43:21.964 66602 Level-0 table #72: started
+2024/03/08-10:43:21.970 66602 Level-0 table #72: 2217808 bytes OK
+2024/03/08-10:43:21.972 66602 Delete type=0 #69
+2024/03/08-22:34:37.165 66602 Level-0 table #74: started
+2024/03/08-22:34:37.173 66602 Level-0 table #74: 2219930 bytes OK
+2024/03/08-22:34:37.174 66602 Delete type=0 #71
+2024/03/08-22:34:37.175 66602 Compacting 4@0 + 2@1 files
+2024/03/08-22:34:37.185 66602 Generated table #75@0: 10 keys, 2218076 bytes
+2024/03/08-22:34:37.195 66602 Generated table #76@0: 84 keys, 2198433 bytes
+2024/03/08-22:34:37.195 66602 Compacted 4@0 + 2@1 files => 4416509 bytes
+2024/03/08-22:34:37.197 66602 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/03/08-22:34:37.197 66602 Delete type=2 #64
+2024/03/08-22:34:37.197 66602 Delete type=2 #65
+2024/03/08-22:34:37.197 66602 Delete type=2 #67
+2024/03/08-22:34:37.197 66602 Delete type=2 #70
+2024/03/08-22:34:37.197 66602 Delete type=2 #72
+2024/03/08-22:34:37.197 66602 Delete type=2 #74

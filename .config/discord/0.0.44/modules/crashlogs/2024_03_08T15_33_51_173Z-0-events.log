@@ -1,0 +1,14 @@
+2024-03-08T15:33:51.178Z 0: 
+
+----------------------------------------------
+2024-03-08T15:33:51.194Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/rich/.config/discord/0.0.44/modules
+2024-03-08T15:33:51.199Z 2: ✅ webContents.created web1 ""
+2024-03-08T15:33:51.205Z 3: ✅ window.created win1 "discord"
+2024-03-08T15:33:51.536Z 4: ✅ webContents.did-finish-load web1
+2024-03-08T15:33:56.546Z 5: ✅ webContents.created web2 ""
+2024-03-08T15:33:56.671Z 6: ✅ window.created win2 "Discord"
+2024-03-08T15:33:57.925Z 7: ✅ webContents.did-finish-load web2
+2024-03-08T15:33:58.013Z 8: window.close win1
+2024-03-08T15:33:58.062Z 9: webContents.destroyed web1
+2024-03-08T15:33:58.063Z 10: window.closed win1
+2024-03-08T16:29:57.498Z 11: window.close win2
